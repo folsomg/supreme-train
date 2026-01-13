@@ -169,3 +169,8 @@ Added new feature.
 ## Update 93
 
 Added new feature.
+
+
+## Update 94
+
+Added new feature.
